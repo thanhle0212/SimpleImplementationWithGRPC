@@ -1,0 +1,2 @@
+obj/Debug/netcoreapp3.0/Shipping.cs \
+obj/Debug/netcoreapp3.0/ShippingGrpc.cs: Protos/shipping.proto

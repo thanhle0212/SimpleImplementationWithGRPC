@@ -1,0 +1,17 @@
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/GRPCClientApp.exe
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/obj/Debug/netcoreapp3.0/GRPCClientApp.csprojAssemblyReference.cache
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/obj/Debug/netcoreapp3.0/GRPCClientApp.AssemblyInfoInputs.cache
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/obj/Debug/netcoreapp3.0/GRPCClientApp.AssemblyInfo.cs
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/Grpc.Core.Api.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/Grpc.Net.Client.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/Grpc.Net.Common.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/obj/Debug/netcoreapp3.0/GRPCClientApp.csproj.CopyComplete
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/GRPCClientApp.deps.json
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/GRPCClientApp.runtimeconfig.json
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/GRPCClientApp.runtimeconfig.dev.json
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/GRPCClientApp.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/GRPCClientApp.pdb
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/obj/Debug/netcoreapp3.0/GRPCClientApp.dll
+F:/Projects/SimpleApplicationWithGRPC/GRPCClientApp/obj/Debug/netcoreapp3.0/GRPCClientApp.pdb

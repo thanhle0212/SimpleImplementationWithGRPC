@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "ShippingService";
+
+package Shipping;
+
+service ProductShipment {  
+	rpc SendOrder (SendOrderRequest) returns (SendOrderReply) {}
+}
+ 
+message SendOrderRequest {
+	string productId = 1;
+	int32 quantity = 2;
+	string address = 3;
+	string orderId = 4;
+}
+ 
+message SendOrderReply {
+   bool ok = 1;
+}
