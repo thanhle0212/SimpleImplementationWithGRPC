@@ -13,4 +13,3 @@ This repository contains source code for my article "What is gRPC? and How to im
 https://medium.com/@letienthanh0212/what-is-grpc-and-how-to-implement-grpc-with-asp-net-core-3-x-affe83686123
 
 
-Please buy me a coffee if this project is helpful : https://www.buymeacoffee.com/BXDlhMy
